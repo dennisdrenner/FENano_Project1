@@ -8,8 +8,7 @@ html {
 /*Header Section */
 
 .ninja-logo {
-	margin-top: 20px;
-	margin-left: 20px;
+	margin: 20px 0 0 20px;
 	width: 100px;
 }
 
@@ -24,32 +23,29 @@ html {
 	font-family:  Roboto, sans-serif;
 	font-weight: 100;
 	color: #bcbbbb;
-	padding-right: 15px;
+	padding: 0 0 0 15px;
 }
 
-h2.hero-text-small {
+.hero-text-small {
 	font-family:  Roboto, sans-serif;
 	font-weight: 100;
 	color: #bcbbbb;
-	padding-right: 15px;
-	font-size: 15pt;
-	margin-top: 0;
-	margin-bottom: 0;
+	padding: 0 0 0 15px;
+	font-size: 1.5em;
+	margin: 0 0 0 0;
 	font-weight: 300;
 }
 
-h1.hero-text-big {
+.hero-text-big {
 	font-family:  Roboto, sans-serif;
 	font-weight: 100;
 	color: #bcbbbb;
-	padding-right: 15px;
-	font-size: 40pt;
-	margin-bottom: 4px;
+	padding: 0 0 0 15px;
+	font-size: 4em;
+	margin: 0 0 4px 0;
 }
 
-
 hr {
-
 	height: 3px;
 	border: 0 none;
 	color: #bcbbbb;
@@ -65,22 +61,22 @@ hr {
 /* Featured Projects */
 
 .featured-row {
-	margin-top: 15px;
+	margin: 15px;
 }
+
 .featured-text {
-	padding-left: 25px;
+	padding: 0 25px 0 0;
 	color: #bcbbbb;
 	font-size: 30px;
 	font-weight: 400;
 }
 
-.featured-work h3{
+.featured-work h3 {
 	font-size: 35px;
 	font-weight: 200;
 	color: #747704;
 }
 
-.featured-work p{
-
+.featured-work p {
 	font-weight: 100;
 }
